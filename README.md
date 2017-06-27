@@ -1,2 +1,2 @@
 # Kaggle
-Code for Kaggle Competitions
+Code for Kaggle Competitions, just beginning.
